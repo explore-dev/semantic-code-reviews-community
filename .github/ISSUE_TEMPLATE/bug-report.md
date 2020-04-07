@@ -21,5 +21,5 @@ If the matter is security related, please disclose it privately to security@expl
 
 **Environment**:
 - Extension version:
-- Browser:
+- Browser & version:
 - Others:
