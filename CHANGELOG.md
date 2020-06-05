@@ -14,6 +14,7 @@ All changes to semantic code reviews will be documented in this file.
 
 ### API changes
 #### Added
+- `pr/branches`: Get request to retrieve pull request branches
 - `pr/check`: Get request used to check if back-end should analyse file changes
 - `pr/comments`: Get request to retrieve comments
 - `pr/comment/delete`: Post request to delete comment
@@ -30,8 +31,8 @@ All changes to semantic code reviews will be documented in this file.
 ## [0.3] - 2020-05-20
 ### Features
 
-- Bidirectional code expansion
-- Better syntax highlighting 
+- Client-side caching
+- Symbol renaming
 
 **No API changes**
 
