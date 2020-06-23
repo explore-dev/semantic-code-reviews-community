@@ -1,8 +1,19 @@
 # Changelog
 All changes to semantic code reviews will be documented in this file.
 
-## [0.4] - 2020-06-03
+## [0.5] - 2020-06-23
+### Features
 
+- Markdown on comments
+- Symbol highlighting
+- Progress on symbols viewed
+- Symbol labels by change type
+- Higher precision of TypeScript analysis
+- **[beta]** Support for golang
+
+**No API changes**
+
+## [0.4] - 2020-06-03
 ### Features
 
 - Comments (Add/Remove/Edit)
